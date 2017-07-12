@@ -1,1 +1,11 @@
-โปรเจค ติดตามเด็ก โดยที่ฝั่งผู้ปกครองจะต้อง Add Key
+Application ต่อตาม Location ของ Wear ลูก
+โดยผู้ปกครอง ต้อง Add ลูก
+และ จะแจ้งเตือนถ้า ลูกเข้าไปในที่ ที่เรากำหนด
+
+[![Screen Shot 2560-07-13 at 00.42.12.png](https://s13.postimg.org/jxqtr2v9j/Screen_Shot_2560-07-13_at_00.42.12.png)](https://postimg.org/image/3mqpurirn/)
+
+[![Screen Shot 2560-07-13 at 00.42.18.png](https://s2.postimg.org/xe3jg0tnd/Screen_Shot_2560-07-13_at_00.42.18.png)](https://postimg.org/image/ch7bbcvmd/) [![Screen Shot 2560-07-13 at 01.05.38.png](https://s24.postimg.org/amy83zj8l/Screen_Shot_2560-07-13_at_01.05.38.png)](https://postimg.org/image/w9d8l0hsx/)
+
+[![Screen Shot 2560-07-13 at 01.05.48.png](https://s10.postimg.org/j8r5kpa15/Screen_Shot_2560-07-13_at_01.05.48.png)](https://postimg.org/image/52bepgz5x/) [![Screen Shot 2560-07-13 at 01.27.28.png](https://s10.postimg.org/aazocxf3d/Screen_Shot_2560-07-13_at_01.27.28.png)](https://postimg.org/image/7tnx5nv6t/)
+
+[![Screen Shot 2560-07-13 at 01.39.41.png](https://s17.postimg.org/qish6ubfj/Screen_Shot_2560-07-13_at_01.39.41.png)](https://postimg.org/image/8sqslsxuj/) [![Screen Shot 2560-07-13 at 01.39.56.png](https://s2.postimg.org/to4etwdrd/Screen_Shot_2560-07-13_at_01.39.56.png)](https://postimg.org/image/v35zimeud/)
